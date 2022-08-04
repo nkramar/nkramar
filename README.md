@@ -6,9 +6,9 @@
  - :astronaut: Пару лет назад меня заинтересовала автоматизация тестирования
  - :green_book: Поэтому самостоятельно окончила курс на Udemy по основам Java и прошла несколько курсов в этом направлении внутри своей компании.
  - :books:  На данный момент продолжаю изучать автоматизацию на языке Java на замечательном курсе https://qa.guru
- - :woman_student: Ниже приведена часть технологий и инструментов с которыми я познакомилась и которые хотелось бы применить на практике
+ - :woman_student: Ниже приведена часть технологий и инструментов с которыми я познакомилась и которые хотелось бы применить на практике:
 
-<div>
+<p align="center">  
   <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" title="Intellij Idea" alt="Intellij Idea" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/354051/maven.svg" title="Maven"  alt="Maven" width="40" height="40"/>&nbsp;
@@ -22,8 +22,7 @@
   <img src="https://plugins.jetbrains.com/files/12513/183932/icon/pluginIcon.svg" title="Allure TestOps" alt="Allure TestOps" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/color/96/jira.png" title="Jira" alt="Jira" width="40" height="40"/> 
-</div>
-
+  </p>
 
 
 
