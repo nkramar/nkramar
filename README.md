@@ -42,3 +42,19 @@
    <img src="https://github.com/appium/appium-inspector/raw/main/docs/icon.png" title="AppiumInspector" alt="AppiumInspector" width="40" height="40"/>&nbsp; 
   <img src="https://img.icons8.com/color/96/jira.png" title="Jira" alt="Jira" width="40" height="40"/> 
   </p>
+  
+  ### Знания языков: 
+  
+  |Язык               |Уровень             |                        
+  |-------------------------------- |------|
+  | Немецкий язык     | Mittelstufe (B2)   |  
+  | Английский язык	  | Intermediate (B1)  |  
+   
+  
+    
+                                                                                                  
+
+
+
+
+
