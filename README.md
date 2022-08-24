@@ -43,7 +43,7 @@
   <img src="https://img.icons8.com/color/96/jira.png" title="Jira" alt="Jira" width="40" height="40"/> 
   </p>
   
-  ### Знания языков: 
+  ### Знание языков: 
   
   |Язык               |Уровень             |                        
   |-------------------------------- |------|
